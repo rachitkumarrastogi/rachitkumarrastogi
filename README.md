@@ -8,7 +8,7 @@
   <p> 💬 Ask me about full agile development cycle, different languages, coins (numismatist), trading markets and food ;-) </p>
   <p> 📫 How to reach me: rachitrastogi777@gmail.com </p>
   <p> 😄 Pronouns: He/Him </p>
-  <p> ⚡ Fun fact: 24x7 learning </p>
+  <p> ⚡ Fun fact **I am 24x7 learning, always positive and my friends find me funny**</p>
 
 <img  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="coding" width="400">
 
@@ -17,8 +17,6 @@
 <p align="left"> <a href="https://twitter.com/rachitrastogi" target="blank"><img src="https://img.shields.io/twitter/follow/rachitrastogi?logo=twitter&style=for-the-badge" alt="rachitrastogi" /></a> </p>
 
 - 📫 How to reach me **rachitrastogi777@gmail.com**
-
-- ⚡ Fun fact **I am 24x7 learning, always positive and my friends find me funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
