@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hi there 👋, This is Rachit Rastogi </h1>
 
-  <p> 🔭 I’m currently working on Retail trading apps for iOS platform. </p>
-  <p> 🌱 I’m currently using xCode & XCUit </P>
+  <p> 🔭 I’m currently working on Retail trading apps. </p>
+  <p> 🌱 I’m currently using SwiftUI </P>
   <p> 👯 I’m looking to collaborate on MERN / MEAN stack </p>
   <p> 🤔 I’m always looking for good projects & Open Source Developments in React </p>
   <p> 💬 Ask me about full agile development cycle, different languages, coins (numismatist), trading markets and food ;-) </p>
