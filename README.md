@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/rachitrastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rachit Rastogi's Twitter Handle" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rachitrastogi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rachit Rastogi's LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/rachitkrastogi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rachit Rastogi's LC Stats" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rastogibhai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rachit Rastogi's LC Stats" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
