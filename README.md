@@ -10,6 +10,8 @@
   <p> 😄 Pronouns: He/Him </p>
   <p> ⚡ Fun fact **I am 24x7 learning, always positive and my friends find me funny**</p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rachitkumarrastogi)](https://github.com/rachitkumarrastogi/github-profile-trophy)
+
 <img  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitrastogi&label=Profile%20views&color=0e75b6&style=flat" alt="rachitrastogi" /> </p>
