@@ -1,32 +1,59 @@
 <h1 align="center"> Hi there 👋, I'm Rachit Rastogi </h1>
 
-<p align="center"><b>Engineering Manager • Backend Architect • AI-Native Builder</b></p>
+<p align="center" style="text-decoration-style: wavy;"><b>Engineering Manager • Backend Architect • AI-Native Builder</b></p>
 
 ---
 
-<p> 🔭 I’m currently building & scaling <b>retail trading and account-data backend systems</b> powering millions of users. </p>
+<h2 align="left">🚀 What I Do</h2>
 
-<p> ⚙️ My expertise spans <b>system design</b>, <b>event-driven microservices</b>, <b>Kafka</b>, <b>ledger design</b>, <b>latency reduction</b>, <b>observability</b>, and <b>high-scale distributed systems</b>. </p>
-
-<p> 🤖 I also build <b>AI-native products</b> (multi-agent flows, MCP, LLM function calling and retrieval systems). </p>
-
-<p> 📦 Currently leading teams in <b>retail trading (stocks, ETFs)</b>, <b>profile/identity platforms</b>, <b>equity awards systems</b>, and <b>high-performance analytics</b>. </p>
-
-<p> 🧩 I collaborate on: <b>backend architectures, system design reviews, reliability engineering, AI-engineering, frontend flows and large-scale platforms</b>. </p>
-
-<p> 💬 Ask me about:  
-  - Designing systems for <b>100k+ QPS</b>  
-  - Microservices, Kafka, caching, consistency models  
-  - Reducing latency from <b>seconds → milliseconds</b>  
-  - AI agent workflows, reasoning pipelines  
-  - Trading systems, order-flow, market microstructure
-  - Faster and new age UIs for web and mobile
-  - Numismatics (yes, I collect coins & currencies mostly UNC 😄)  
+<p style="line-height:1.6; font-size:16px;">
+🔭  I’m currently building & scaling <b>retail trading and account-data backend systems</b> powering millions of users.  
 </p>
 
-<p> 📫 Reach me at: <b>rachitrastogi777@gmail.com</b> </p>
+<p style="line-height:1.6; font-size:16px;">
+⚙️  My expertise spans <b>system design</b>, <b>event-driven microservices</b>, <b>Kafka</b>, <b>double-entry ledgers</b>, <b>latency reduction</b>, <b>observability</b>, and <b>high-scale distributed systems</b>.  
+</p>
 
-<p> ⚡ Fun fact: <b>I build something every week, trading engine, AI systems, prototypes for my kids experiments and I’m always learning.</b></p>
+<p style="line-height:1.6; font-size:16px;">
+🤖  I also build <b>AI-native products</b> (multi-agent flows, MCP, reasoning pipelines, function-calling and retrieval systems)</b>.  
+</p>
+
+<p style="line-height:1.6; font-size:16px;">
+📦  Leading teams in <b>retail trading (stocks/ETFs)</b>, <b>user profile & identity platforms</b>, <b>equity awards systems</b>, and <b>real-time analytics</b>.  
+</p>
+
+<hr style="border:0.5px solid #eaeaea; margin:20px 0;"/>
+
+<h2 align="left">🧩 How I Collaborate</h2>
+
+<p style="line-height:1.6; font-size:16px;">
+I work on <b>backend architectures</b>, <b>system design reviews</b>, <b>reliability engineering</b>, <b>AI engineering</b>, and <b>large-scale platform design</b>.  
+</p>
+
+<hr style="border:0.5px solid #eaeaea; margin:20px 0;"/>
+
+<h2 align="left">💬 Ask Me About</h2>
+
+<ul style="font-size:16px; line-height:1.6;">
+  <li>Designing systems for <b>100k+ QPS</b> and sub-ms latency paths</li>
+  <li>Kafka, microservices, caching, partitioning, consistency models</li>
+  <li>Reducing latency from <b>seconds → milliseconds</b></li>
+  <li>AI-agent workflows, multi-agent chains, retrieval patterns</li>
+  <li>Trading systems, order-flow, market microstructure</li>
+  <li>Numismatics (yes, I collect coins 😄)</li>
+</ul>
+
+<hr style="border:0.5px solid #eaeaea; margin:20px 0;"/>
+
+<h2 align="left">📫 Connect</h2>
+
+<p style="font-size:16px;">📧 <b>rachitrastogi777@gmail.com</b></p>
+
+<h3 align="left">⚡ Fun Fact</h3>
+
+<p style="line-height:1.6; font-size:16px;">
+I build something every week — trading engines, AI systems, backend prototypes for my kids — and I’m <b>always learning</b>.
+</p>
 
 ---
 
